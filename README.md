@@ -1,4 +1,4 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [H Coding](https://studio.hcoding.com)
 
 ## Setup
 
